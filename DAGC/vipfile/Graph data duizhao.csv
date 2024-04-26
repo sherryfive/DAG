@@ -1,0 +1,46 @@
+StratumNo,StratumCode,StratumName,StratumName,R,G,B,Color,Color16,StratumCode
+1,A1,xFSx,Filling soil,255,182,193,FFFFB6C1,#FFB6C1,£Ë1
+2,A3,xHFSx,Hydraulic fill soil,220,20,60,FFDC143C,#DC143C,£Ë3
+3,B11,xBYCx,Brownish yellow clay,219,112,147,FFDB7093,#DB7093,£Ì1-1
+4,B12,xBYx,Brownish yellow or grayish yellow silty clay,255,20,147,FFFF1493,#FF1493,£Ì1-2
+5,B2,xPSx,Peat soil,199,21,133,FFC71585,#C71585,£Ì2
+6,B31,xGSSx,Gray sandy silt,95,158,160,FF5F9EA0,#5F9EA0,£Ì3-1
+7,B0,xGSSx,Gray sandy silt,95,158,160,FF5F9EA0,#5F9EA0,£Ì0
+8,B32,xGCSx,Gray clayey silt,153,50,204,FF9932CC,#9932CC,£Ì3-2
+9,B33,xGSax,Gray silty sand,0,255,255,FF00FFFF,#00FFFF,£Ì3-3
+10,C1,xMSCx,Gray muddy silty clay,30,144,255,FF1E90FF,#1E90FF,£Í1
+11,C2,xGCx,Gray clay,123,104,238,FF7B68EE,#7B68EE,£Í2
+12,Ca,xGSSx,Gray sandy silt,95,158,160,FF5F9EA0,#5F9EA0,£Ía
+13,C3,xMSCx,Gray muddy silty clay,30,144,255,FF1E90FF,#1E90FF,£Í3
+14,D,xGMCx,Gray muddy clay,65,105,225,FF4169E1,#4169E1,£Î
+15,Da,xGSSx,Gray sandy silt,95,158,160,FF5F9EA0,#5F9EA0,£Îa
+16,E11,xGCx,Gray clay,123,104,238,FF7B68EE,#7B68EE,£Ï1-1
+17,E12,xGSCx,Gray silty clay,255,69,0,FFFF4500,#FF4500,£Ï1-2
+18,E21,xGSSx,Gray sandy silt,95,158,160,FF5F9EA0,#5F9EA0,£Ï2-1
+19,E22,xGSax,Gray silty sand,0,255,255,FF00FFFF,#00FFFF,£Ï2-2
+20,E3,xSaCx,Gray sandy clay,255,246,143,FFFFF68F,#FFF68F,£Ï3
+21,E4,xRSCx,Gray-green sandy clay,0,139,139,FF008B8B,#008B8B,£Ï4
+22,F1,xDGx,Dark green or grass yellow clay,127,255,170,FF7FFFAA,#7FFFAA,£Ð1
+23,F2,xDSx,Dark green or grass yellow silty clay,60,179,113,FF3CB371,#3CB371,£Ð2
+24,G11,xYCSx,Grass yellow clayey silt,85,107,47,FF556B2F,#556B2F,£Ñ1-1
+25,G12,xYSSx,Grass yellow sandy silt,218,112,214,FFDA70D6,#DA70D6,£Ñ1-2
+26,G21,xYax,Gray yellow or gray silty sand,50,205,50,FF32CD32,#32CD32,£Ñ2-1
+27,G22,xTSx,Gray yellow or gray thin sand,205,149,12,FFCD950C,#CD950C,£Ñ2-2
+28,H11,xGCx,Gray clay,123,104,238,FF7B68EE,#7B68EE,£Ò1-1
+29,H12,xGSSx,Gray sandy silt,95,158,160,FF5F9EA0,#5F9EA0,£Ò1-2
+30,H21,xDSx,Dark green or grass yellow silty clay,60,179,113,FF3CB371,#3CB371,£Ò2-1
+31,H22,xGYx,Gray yellow or gray sandy silt,255,255,0,FFFFFF00,#FFFF00,£Ò2-2
+32,H23,xGSCx,Gray silty clay,255,69,0,FFFF4500,#FF4500,£Ò2-3
+33,H31,xDBx,Dark green or bluish gray silty clay,255,140,0,FFFF8C00,#FF8C00,£Ò3-1
+34,H32,xGYx,Gray yellow or gray sandy silt,255,255,0,FFFFFF00,#FFFF00,£Ò3-2
+35,H33,xGSCx,Gray silty clay,255,69,0,FFFF4500,#FF4500,£Ò3-3
+36,H4,xGSCx,Gray silty clay,255,69,0,FFFF4500,#FF4500,£Ò4
+37,I11,xSCax,Green-gray silty sand,176,196,222,FFB0C4DE,#B0C4DE,£Ó1-1
+38,I12,xGFSx,Green-gray fine sand,0,128,0,FF008000,#008000,£Ó1-2
+39,I2,xPMSx,Green-gray pebbled medium sand,173,255,47,FFADFF2F,#ADFF2F,£Ó2
+40,J,xBSCx,Bluish-gray silty clay,128,128,0,FF808000,#808000,£Ô
+41,K,xGSFx,Green-gray silty fine sand,139,69,19,FF8B4513,#8B4513,£Á
+42,0F,0Fault,0Fault,0,0,255,FF0000FF,#0000FF,0F
+43,1F,1Fault,1Fault,0,0,255,FF0000FF,#0000FF,1F
+44,2F,2Fault,2Fault,0,0,255,FF0000FF,#0000FF,2F
+45,3F,3Fault,3Fault,0,0,255,FF0000FF,#0000FF,3F
