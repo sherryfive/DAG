@@ -22,7 +22,7 @@ in your command line.
 - python packages: scipy, numpy, sys, skimage, graphviz, PIL, matplotlib, pandas
 
 ## Usage
-There are two main folders in this repository: [DAGC](https://github.com/sherryfive/DAG/blob/main/DAGC/) and [Graph](https://github.com/sherryfive/DAG/blob/main/Graph/).
+There are three main folders in this repository: [DAGC](https://github.com/sherryfive/DAG/blob/main/DAGC/), [DAGC EXE](https://github.com/sherryfive/DAG/blob/main/DAGC EXE/) and [Graph](https://github.com/sherryfive/DAG/blob/main/Graph/).
 
 ### DAGC
 
@@ -31,6 +31,10 @@ This is a solution written in C++. This folder contains the code, data, and resu
 - Code: ***.h*** and ***.cpp*** files in [DAGC](https://github.com/sherryfive/DAG/blob/main/DAGC/) folder. Compile with VS2022 and Qt 5.15.2.
 - Data: ***BH-5000-myorder.csv***, ***BH-5000-order.csv***, and ***BH-5000-YUAN.csv*** in the [vipfile](https://github.com/sherryfive/DAG/blob/main/DAGC/vipfile/) folder.
 - Result: ***Graph data node.csv*** and ***Graph data edge.csv*** in the [vipfile](https://github.com/sherryfive/DAG/blob/main/DAGC/vipfile/) folder.
+
+### DAGC EXE
+
+This is the executable package of DAGC. By running [P_DAGC.exe](https://github.com/sherryfive/DAG/blob/main/DAGC EXE/P_DAGC.exe), you can directly obtain the results of DAGC.
 
 ### Graph
 
