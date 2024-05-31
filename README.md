@@ -28,7 +28,7 @@ There are two main folders in this repository: [DAGC](https://github.com/sherryf
 
 This is a solution written in C++. This folder contains the code, data, and results for automatically obtaining stratigraphic sequences.
 
-- Code: ***.h*** and ***.cpp*** files in [DAGC](https://github.com/sherryfive/DAG/blob/main/DAGC/). Compile with VS2022 and Qt 5.15.2.
+- Code: ***.h*** and ***.cpp*** files in [DAGC](https://github.com/sherryfive/DAG/blob/main/DAGC/) folder. Compile with VS2022 and Qt 5.15.2.
 - Data: ***BH-5000-myorder.csv***, ***BH-5000-order.csv***, and ***BH-5000-YUAN.csv*** in the [vipfile](https://github.com/sherryfive/DAG/blob/main/DAGC/vipfile/) folder.
 - Result: ***Graph data node.csv*** and ***Graph data edge.csv*** in the [vipfile](https://github.com/sherryfive/DAG/blob/main/DAGC/vipfile/) folder.
 
